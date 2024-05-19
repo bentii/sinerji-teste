@@ -4,7 +4,7 @@
 
 Por ser um projeto em framework o diretório da lógica está localizado em src/main/java/sinerji/teste/
 
-## **Execute o arquivo sinerji/teste/TesteApliccation.java** para iniciar o programa
+## **Execute o arquivo sinerji/teste/TesteApliccation.java** para iniciar a aplicação
 
 A injeção dos dados fornecidos nas tabelas do teste são automáticamente inseridas no banco de dados pelo arquivo
 **DataInitializer.java**
