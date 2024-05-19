@@ -20,8 +20,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
 
 #### As requisições consistem em um objeto em **JSON** contendo um array de nomes, uma data no tipo "yyyy-MM" e o nome do método desejado.
 
-1. #### "Um método que receba uma lista de funcionários, mês e ano e retorne o valor total
-      ## pago (salário e benefício) a esses funcionários no mês."
+1. #### "Um método que receba uma lista de funcionários, mês e ano e retorne o valor total pago (salário e benefício) a esses funcionários no mês."
    
      ```json   
     {
@@ -31,8 +30,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     }
     ```
 
-2. #### Um método que receba uma lista de funcionários, mês e ano e retorne o total pago
-     #### somente em salários no mês.
+2. #### Um método que receba uma lista de funcionários, mês e ano e retorne o total pago somente em salários no mês.
    
      ```json
     {
@@ -42,8 +40,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     }
     ```
 
-3. #### Um método que receba uma lista somente com os funcionários que recebem
-    ####  benefícios, mês e ano e retorne o total pago em benefícios no mês.
+3. #### Um método que receba uma lista somente com os funcionários que recebe benefícios, mês e ano e retorne o total pago em benefícios no mês.
 
     ```json
     {
@@ -53,8 +50,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     }
     ```
 
-4. #### Um método que receba uma lista de funcionários, mês e ano e retorne o que
-     #### recebeu o valor mais alto no mês.
+4. #### Um método que receba uma lista de funcionários, mês e ano e retorne o que recebeu o valor mais alto no mês.
 
     ```json
     {
@@ -64,9 +60,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     }
     ```
 
-5. #### Um método que receba uma lista somente com os funcionários que recebem
-    #### benefícios, mês e ano e retorne o nome do funcionário que recebeu o valor mais
-     #### alto em benefícios no mês.
+5. #### Um método que receba uma lista somente com os funcionários que recebem benefícios, mês e ano e retorne o nome do funcionário que recebeu o valor mais alto em benefícios no mês.
 
     ```json
     {
@@ -76,8 +70,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     }
     ```
 
-6. #### Um método que receba uma lista de vendedores, mês e ano e retorne o que mais
-    #### vendeu no mês.
+6. #### Um método que receba uma lista de vendedores, mês e ano e retorne o que mais vendeu no mês.
 
     ```json
     {
