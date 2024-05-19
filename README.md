@@ -32,7 +32,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     ```
 
 2. #### Um método que receba uma lista de funcionários, mês e ano e retorne o total pago
-      somente em salários no mês.
+     #### somente em salários no mês.
    
      ```json
     {
@@ -43,7 +43,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     ```
 
 3. #### Um método que receba uma lista somente com os funcionários que recebem
-      benefícios, mês e ano e retorne o total pago em benefícios no mês.
+    ####  benefícios, mês e ano e retorne o total pago em benefícios no mês.
 
     ```json
     {
@@ -54,7 +54,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     ```
 
 4. #### Um método que receba uma lista de funcionários, mês e ano e retorne o que
-    recebeu o valor mais alto no mês.
+     #### recebeu o valor mais alto no mês.
 
     ```json
     {
@@ -65,8 +65,8 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     ```
 
 5. #### Um método que receba uma lista somente com os funcionários que recebem
-    benefícios, mês e ano e retorne o nome do funcionário que recebeu o valor mais
-    alto em benefícios no mês.
+    #### benefícios, mês e ano e retorne o nome do funcionário que recebeu o valor mais
+     #### alto em benefícios no mês.
 
     ```json
     {
@@ -77,7 +77,7 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
     ```
 
 6. #### Um método que receba uma lista de vendedores, mês e ano e retorne o que mais
-    vendeu no mês.
+    #### vendeu no mês.
 
     ```json
     {
