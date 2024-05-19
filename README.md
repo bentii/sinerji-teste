@@ -1,6 +1,6 @@
 # Teste para Sinerji
 
-## Projeto criado em **Spring Boot** utilizando **H2** como banco de dados integrado.
+#### Projeto criado em **Spring Boot** utilizando **H2** como banco de dados integrado.
 
 Por ser um projeto em framework o diretório da lógica está localizado em src/main/java/sinerji/teste/
 
