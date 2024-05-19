@@ -13,10 +13,10 @@ A injeção dos dados fornecidos nas tabelas do teste são automáticamente inse
 ### POST: http://localhost:8080/funcionarios/pesquisar
 
 
-Segue a forma para fazer o request para cada método cobrado no teste, lembrando que todos utilizam o mesmo caminho HTTP:
+## Segue a forma para fazer o request para cada método cobrado no teste, lembrando que todos utilizam o mesmo caminho HTTP:
 **(O código dos métodos está em src/main/java/sinerji/teste/Services/FuncionarioService.java)**
 
-### As requisições consistem em um objeto contendo um array de nomes, uma data no tipo "yyyy-MM" e o nome do método desejado no formato JSON.
+#### As requisições consistem em um objeto contendo um array de nomes, uma data no tipo "yyyy-MM" e o nome do método desejado no formato JSON.
 
 1. ## "Um método que receba uma lista de funcionários, mês e ano e retorne o valor total
       ## pago (salário e benefício) a esses funcionários no mês."
